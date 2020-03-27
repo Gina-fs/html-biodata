@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+<title>Biodata Diri</title>
+</head>
+<body>
+<img src="bobku.png" width="5%" height="5%" align="center" style="display: block; margin: auto;">
+<h1 align="center">Gina Fairuz Shofi</h1>
+<table align="center">
+<tr align="center" bgcolor="white">
+</tr>
+<tr>
+<td>Alamat</td>
+<td>:</td>
+<td>Desa Dasan Baru, Kopang</td>
+</tr>
+<tr>
+<td>Jenis Kelamin</td>
+<td>:</td>
+<td>Perempuan</td>
+</tr>
+<tr>
+<td>Nomor Hp</td>
+<td>:</td>
+<td>085337676068</td>
+</tr>
+<tr>
+<td>Pekerjaan</td>
+<td>:</td>
+<td>Staf Tata Usaha</td>
+</tr>
+<tr>
+<td>Hobi</td>
+<td>:</td>
+<td>Menulis dan Membaca</td>
+</tr>
+</table>
+</body>
+</html>
